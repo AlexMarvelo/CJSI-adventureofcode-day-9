@@ -1,0 +1,30 @@
+# CJSI Adventureofcode day 9
+Hometask for Ciklum JS Internship Lesson 3 (task 2)
+
+---
+
+##### Task
+[Task description is here](http://adventofcode.com/day/9)
+
+Solve method:
+
+  Store values in cell:
+  * 0 - lighter turned off
+  * 1 - lighter turned on
+
+---
+
+##### List of used technologies:
+- es6 (with Babel transpiler)
+- eslint (airbnb preset)
+
+---
+
+##### To run the project locally, use:
+```
+git clone https://github.com/AlexMarvelo/CJSI-adventureofcode-day-9.git
+cd CJSI-extendDeep-compareDeep
+npm i
+npm run test
+```
+You can see result in stdout
