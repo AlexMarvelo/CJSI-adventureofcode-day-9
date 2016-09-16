@@ -8,10 +8,6 @@ Hometask for Ciklum JS Internship Lesson 3 (task 2)
 
 Solve method:
 
-  Store values in cell:
-  * 0 - lighter turned off
-  * 1 - lighter turned on
-
 ---
 
 ##### List of used technologies:
@@ -23,7 +19,7 @@ Solve method:
 ##### To run the project locally, use:
 ```
 git clone https://github.com/AlexMarvelo/CJSI-adventureofcode-day-9.git
-cd CJSI-extendDeep-compareDeep
+cd CJSI-adventofcode-day-9
 npm i
 npm run test
 ```
